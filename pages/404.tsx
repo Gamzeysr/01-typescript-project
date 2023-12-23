@@ -1,5 +1,5 @@
 const NotFound = () => {
-  return <div className={StyleSheet.container}>404 Not Found</div>;
+  return <div >404 Not Found</div>;
 };
 
 export default NotFound;
