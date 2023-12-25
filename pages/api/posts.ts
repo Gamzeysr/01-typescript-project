@@ -1,5 +1,5 @@
 import { NextApiHandler } from "next";
-import matter from "gray-mater";
+import matter from "gray-matter";
 import fs from "fs";
 import path from "path";
 
