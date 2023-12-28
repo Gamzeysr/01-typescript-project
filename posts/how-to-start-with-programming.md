@@ -1,3 +1,9 @@
+---
+title: How to start with programming
+meta: Maybe you’ve heard of it, maybe you haven’t. Zig is a new programming language that seems to be growing in popularity.
+slug: how-to-start-with-programming
+---
+
 Astro is a new approach to the current fervor in JavaScript: wringing more performance out of reactive front ends. It is developed by the same team that created the Snowpack build tool.
 
 There have been several attempts to improve performance by avoiding the expensive prefetching and bootstrapping that have afflicted React-like frameworks. This is the notorious hydration problem described here.

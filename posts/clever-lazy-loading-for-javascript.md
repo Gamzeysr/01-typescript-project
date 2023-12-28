@@ -1,6 +1,6 @@
 ---
-title: This is my title
-meta: Maybe you’ve heard of it, maybe you haven’t. Zig is a new programming language that seems to be growing in.
+title: Clever Lazy Loading for Javascript
+meta: Maybe you’ve heard of it, maybe you haven’t. Zig is a new programming language that seems to be growing in popularity.
 slug: clever-lazy-loading-for-javascript
 ---
 
